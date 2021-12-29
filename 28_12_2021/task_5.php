@@ -6,4 +6,3 @@ function number($bus_stops) {
     }
     return $people;
 }
-echo number([[4,0],[10,5]]);
